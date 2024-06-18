@@ -1,4 +1,4 @@
-# LLM-CL
+# LLM CL for Mobile Networks
 Code "Large Language Model-Driven Curriculum Design for Mobile Networks" which has been accepted as a symposium paper at IEEE ICCC 2024.
 The preprint of the manuscript is available here: [https://arxiv.org/abs/2405.18039]. 
 In this paper we explore using an LLM to generate a curriculum for an RL agent to train on. 
@@ -50,6 +50,9 @@ To run the code in this repository, you need the following:
 - `one_shot_learning.ipynb`: Jupyter notebook containing the implementation of an RL agent trained on the final environment.
 - `requirements.txt`: List of required Python packages.
 - `README.md`: This file, providing an overview and usage instructions.
+
+## TODO
+- Add the modified mobile-env repo as a submodule
 
 ## License
 
