@@ -16,7 +16,7 @@ To run the code in this repository, you need the following:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/LLM-CL.git
+    git clone https://github.com/OmarErak/LLM-CL.git
     cd LLM-CL
     ```
 
